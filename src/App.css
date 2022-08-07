@@ -21,8 +21,8 @@
 
 
 .profile_pic{
-  width: 150px;
-  margin-right: 20px;
+  width: 160px;
+  margin-right: 70px;
   border-radius: 50%;
 }
 /*
@@ -59,7 +59,7 @@ img {
 }
 
 .image-text-button{
-  background-color: rgb(228, 228, 228);
+  background-color: rgb(245, 245, 245);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -68,6 +68,7 @@ img {
   text-decoration: none;
   color: black;;
   margin: 5px;
+  font-size: 14px;
 }
 
 .pictogram{

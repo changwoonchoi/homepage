@@ -53,13 +53,13 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    color: blue;
-    text-decoration: none;
     margin: 2px;
 }
 
-.publication_button:visited{
-    color: blue;
+.publication_link{
+    color: rgb(66, 147, 245);
+    text-decoration: none;
+    text-decoration-style: none;
 }
 
 .publication_button_separator{

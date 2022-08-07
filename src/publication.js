@@ -7,7 +7,7 @@ const Projectbutton = (project_page) => {
     if (project_page !== "None") {
         return (
             <div className="publication_button">
-                <a href={project_page} target="_blank" rel="noopener noreferrer">
+                <a href={project_page} target="_blank" rel="noopener noreferrer" className="publication_link">
                     Project page
                 </a>
                 <div className="publication_button_divider">
@@ -22,7 +22,7 @@ const Paperbutton = (paper) => {
     if (paper !== "None") {
         return (
             <div className="publication_button">
-                <a href={paper} target="_blank" rel="noopener noreferrer">
+                <a href={paper} target="_blank" rel="noopener noreferrer" className="publication_link">
                     paper
                 </a>
                 <div className="publication_button_separator">
@@ -37,7 +37,7 @@ const Codebutton = (code) => {
     if (code !== "None") {
         return (
             <div className="publication_button">
-                <a href={code} target="_blank" rel="noopener noreferrer">
+                <a href={code} target="_blank" rel="noopener noreferrer" className="publication_link">
                     code
                 </a>
             </div>
