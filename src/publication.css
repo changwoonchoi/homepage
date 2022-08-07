@@ -1,0 +1,69 @@
+.publication_container{
+    width: 800px;
+    display: flex;
+    flex-direction: column;
+}
+
+.publication_item{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.publication_img{
+    width: 200px;
+}
+
+.publication_info{
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    padding-left: 40px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.publication_title{
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.publication_journal{
+    color: gray;
+}
+
+.publication_description{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.publication_button_wrapper{
+    display: flex;
+    justify-content: left;
+}
+
+.publication_buttons{
+    display: flex;
+    justify-content: space-between
+}
+
+.publication_button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: blue;
+    text-decoration: none;
+    margin: 2px;
+}
+
+.publication_button:visited{
+    color: blue;
+}
+
+.publication_button_separator{
+    color: black;
+    margin-left: 5px;
+    margin-right: 5px;
+}
