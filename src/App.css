@@ -13,7 +13,7 @@
 
 .header {
   display: flex;
-  width: 600px;
+  width: 700px;
   padding-top: 100px;
   justify-content: center;
   align-items: center;
@@ -47,6 +47,14 @@ img {
 .description{
   margin-bottom: 20px;
 }
+
+.description_link{
+  color: rgb(66, 147, 245);
+  text-decoration: none;
+  text-decoration-style: none;
+  margin-left: 2px;
+}
+
 
 .button-wrapper{
   display: flex;

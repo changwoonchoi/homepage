@@ -11,7 +11,13 @@ function App() {
             Changwoon Choi
           </div>
           <div className="description">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+            I am a Ph.D. student at Seoul National Univeristy, majoring in electrical and computer engineering, advised by 
+            <a href="http://3d.snu.ac.kr" className="description_link">Young Min Kim</a>.
+            <br />
+            I received my bacheler's degree at Seoul National University, also majoring in electrical and computer engineering.
+            <br />
+            <br />
+            My current research interest is in the field of computer vision and graphics with neural implicit representations including NeRF.
           </div>
           <div className="button-wrapper">
             <div className="buttons">
