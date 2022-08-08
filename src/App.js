@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <div className="header">
-        <img src="assets/sample_pic.png" className="profile_pic" alt="profile_pic" />
+        <img src="assets/profile_pic.jpeg" className="profile_pic" alt="profile_pic" />
         <div className="profile_info">
           <div className="name">
             Changwoon Choi
