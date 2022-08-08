@@ -48,6 +48,12 @@ function App() {
         </div>
         <Publication />
       </div>
+      <div className="footer">
+        Feel free to 
+        <a href="https://github.com/changwoonchoi/homepage" className="homepage_link" target="_blank">
+          borrow this template!
+        </a>
+      </div>
     </div>
   );
 }
