@@ -61,8 +61,8 @@ const Publicationitem = (publication) => {
                 <div className="authors">
                     {publication.authors}
                 </div>
-                <div className="publication_journal">
-                    {publication.journal}
+                <div className="publication_venue">
+                    {publication.venue}
                 </div>
                 <div className="publication_description">
                     {publication.description}
