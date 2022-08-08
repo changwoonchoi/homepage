@@ -12,7 +12,7 @@ function App() {
           </div>
           <div className="description">
             I am a Ph.D. student at Seoul National Univeristy, majoring in electrical and computer engineering, advised by 
-            <a href="http://3d.snu.ac.kr" className="description_link">Young Min Kim</a>.
+            <a href="https://scholar.google.com/citations?hl=en&user=TjYQs-AAAAAJ" className="description_link" target="_blank">Young Min Kim</a> in<a href="http://3d.snu.ac.kr" className="description_link" target="_blank">3D Vision Lab</a>.
             <br />
             I received my bacheler's degree at Seoul National University, also majoring in electrical and computer engineering.
             <br />
