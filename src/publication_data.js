@@ -14,7 +14,7 @@ const publicationData = [
         img_link: "assets/publications/cgca_initial.png",
         img_link_onclick: "assets/publications/cgca.gif",
         title: "Probabilistic Scene Completion",
-        venue: "International Conference on Learning Representations (ICLR), 2021",
+        venue: "International Conference on Learning Representations (ICLR, spotlight), 2022",
         authors: "Dongsu Zhang, Changwoon Choi, Inbum Park, Young Min Kim",
         description: "Probabilistic scene completion in continuous representation with GCA formulation",
         project_page: "None",
