@@ -8,7 +8,7 @@ const publicationData = [
         description: "Robust camera localization algorithm with histogram-based score map",
         project_page: "None",
         paper_link: "https://arxiv.org/pdf/2207.05317.pdf",
-        code: "None"
+        code: "https://github.com/82magnolia/cpo"
     },
     {
         img_link: "assets/publications/cgca_initial.png",
