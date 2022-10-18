@@ -1,5 +1,16 @@
 const publicationData = [
     {
+        img_link: "assets/publications/IBL-NeRF_initial.png",
+        img_link_onclick: "assets/publications/IBL-NeRF.png",
+        title: "IBL-NeRF: Image-Based Lighting formulation of Neural Radiance Fields",
+        venue: "arXiv Preprint, 2022",
+        authors: "Changwoon Choi, Juhyeon Kim, Young Min Kim",
+        description: "Intrinsic decomposed NeRF with prefiltered radiance fields",
+        project_page: "None",
+        paper_link: "https://arxiv.org/abs/2210.08202",
+        code: "None"
+    },
+    {
         img_link: "assets/publications/cpo_transparent.png",
         img_link_onclick: "assets/publications/cpo.png",
         title: "CPO: Change Robust Panorama to Point Cloud Localization",
